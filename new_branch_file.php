@@ -1,2 +1,2 @@
 new file inside the branch
-testing the new file 
+testing the new file
